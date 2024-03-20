@@ -1,6 +1,7 @@
 
 There is one thing
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Hello there
 
 
@@ -11,6 +12,9 @@ Hello there
 13
 123
 1
+=======
+Hello there
+>>>>>>> Stashed changes
 =======
 Hello there
 >>>>>>> Stashed changes
